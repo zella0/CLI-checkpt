@@ -6,6 +6,3 @@ Using only the cd, ls and cp commands (don't use finder or mkdir), copy folders 
 
 # Tips
 * Use tab completion to help you narrow down what folders to copy
-
-# Share your result!
-Add a line to [this](https://docs.google.com/document/d/1KAhI4aiBag7OWv0IYoJVS_Z76QC5VsSKumx3lXpLw28/edit?usp=sharing) document to share your result.
